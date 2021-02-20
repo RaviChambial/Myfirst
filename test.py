@@ -1,1 +1,1 @@
-print("this is from child class")
+print("this is from child class A")
